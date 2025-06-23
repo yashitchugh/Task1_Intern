@@ -43,8 +43,9 @@ This repository contains a step-by-step notebook for preprocessing and cleaning 
 
 ## 📁 Files
 
-* `notebook.ipynb` — Jupyter Notebook with all the above steps implemented.
+* `_Day1ElevateLab(1).ipynb` — Jupyter Notebook with all the above steps implemented.
 * `README.md` — This file.
+* `Titanic-Dataset.csv`-Dataset
 
 ---
 
