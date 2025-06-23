@@ -48,11 +48,3 @@ This repository contains a step-by-step notebook for preprocessing and cleaning 
 
 ---
 
-Feel free to fork or clone this repo and use the notebook as a template for your own data preprocessing tasks.
-
-```
-
----
-
-Let me know if you'd like the content adjusted for a specific dataset or style!
-```
