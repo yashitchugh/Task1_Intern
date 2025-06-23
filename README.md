@@ -1,9 +1,5 @@
-# Task1_Intern
-Here's a sample `README.md` file you can upload to GitHub. It clearly explains the steps taken in your data preprocessing pipeline:
 
----
 
-````markdown
 # Data Preprocessing and Cleaning Pipeline
 
 This repository contains a step-by-step notebook for preprocessing and cleaning a dataset before performing any analysis or modeling. Below is an overview of the process followed in this project.
@@ -25,7 +21,7 @@ This repository contains a step-by-step notebook for preprocessing and cleaning 
   from sklearn.preprocessing import LabelEncoder
   le = LabelEncoder()
   df['categorical_column'] = le.fit_transform(df['categorical_column'])
-````
+
 
 ### 4. Standardize Numerical Features
 
